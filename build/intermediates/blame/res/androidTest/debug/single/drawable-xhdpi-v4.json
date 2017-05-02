@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\MyFile\\GitHubDemo\\PeriscopeLayout-master\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\pl_red.png",
+        "source": "D:\\MyFile\\GitHubDemo\\PeriscopeLayout-master\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\pl_red.png"
+    },
+    {
+        "merged": "D:\\MyFile\\GitHubDemo\\PeriscopeLayout-master\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\pl_yellow.png",
+        "source": "D:\\MyFile\\GitHubDemo\\PeriscopeLayout-master\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\pl_yellow.png"
+    },
+    {
+        "merged": "D:\\MyFile\\GitHubDemo\\PeriscopeLayout-master\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\pl_blue.png",
+        "source": "D:\\MyFile\\GitHubDemo\\PeriscopeLayout-master\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\pl_blue.png"
+    }
+]

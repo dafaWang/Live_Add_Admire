@@ -1,0 +1,4 @@
+int drawable pl_blue 0x7f020000
+int drawable pl_red 0x7f020001
+int drawable pl_yellow 0x7f020002
+int string app_name 0x7f030000
